@@ -6,7 +6,7 @@ Adding a line for rebasing example
 MORE CHANGES FROM FEATURE BRANCH
 
 This repository is for showing how Git and GitHub work
-
+fix after stash
 ## Purpose
 
 ##Deployment
