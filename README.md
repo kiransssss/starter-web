@@ -15,3 +15,7 @@ Sample website with plenty of files for demo
 Adding introduction text
 
 modified again
+
+###Copyright
+
+2019 git training
