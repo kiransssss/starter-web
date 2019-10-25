@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-Thanks to all my status
+Thanks to everyone my status
 save all
 # TEAM
    Kiran s kirans.kiran7777@gmail.com
@@ -10,7 +10,9 @@ Review please
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# CMRIT COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+     I love Java
+	 master it quickly
