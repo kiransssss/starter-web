@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+   Kiran s kirans.kiran7777@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
