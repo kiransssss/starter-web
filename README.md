@@ -3,6 +3,7 @@
 This is a simple web project
 
 Adding a line for rebasing example
+MORE CHANGES FROM FEATURE BRANCH
 
 This repository is for showing how Git and GitHub work
 
